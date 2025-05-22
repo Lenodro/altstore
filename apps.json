@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "Flappy Bird Clone",
-      "identifier": "com.leon.flappybird",
+      "bundleIdentifier": "com.leon.flappybird",
       "developerName": "Leon",
       "version": "1.0",
       "versionDate": "2025-05-22",
@@ -16,7 +16,7 @@
     },
     {
       "name": "DolphiniOS",
-      "identifier": "com.leon.dolphinios",
+      "bundleIdentifier": "com.leon.dolphinios",
       "developerName": "Leon",
       "version": "1.2",
       "versionDate": "2025-05-22",
