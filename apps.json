@@ -1,0 +1,30 @@
+{
+  "name": "Leon’s Flappy & Dolphini Repo",
+  "identifier": "leon.flappy.dolphini.repo",
+  "apps": [
+    {
+      "name": "Flappy Bird Clone",
+      "identifier": "com.leon.flappybird",
+      "developerName": "Leon",
+      "version": "1.0",
+      "versionDate": "2025-05-22",
+      "versionDescription": "Cooler Flappy Bird Klon zum Testen",
+      "downloadURL": "https://github.com/leon-altstore/sample-apps/raw/main/FlappyBird.ipa",
+      "iconURL": "https://github.com/leon-altstore/sample-apps/raw/main/flappy-icon.png",
+      "tintColor": "#FF6600",
+      "marketplaceIdentifier": "com.leon.flappybird"
+    },
+    {
+      "name": "DolphiniOS",
+      "identifier": "com.leon.dolphinios",
+      "developerName": "Leon",
+      "version": "1.2",
+      "versionDate": "2025-05-22",
+      "versionDescription": "GameCube/Wii Emulator (angepasst für PAL)",
+      "downloadURL": "https://github.com/leon-altstore/sample-apps/raw/main/DolphiniOS.ipa",
+      "iconURL": "https://github.com/leon-altstore/sample-apps/raw/main/dolphini-icon.png",
+      "tintColor": "#34C759",
+      "marketplaceIdentifier": "com.leon.dolphinios"
+    }
+  ]
+}
